@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Álvaro
-🎯 **Frontend Developer** | 25 años | Madrid, España  
+🎯 **Frontend Developer** | 26 años | Madrid, España  
 💡 Apasionado por el diseño minimalista, la experiencia de usuario y el código limpio.
 
 ---
@@ -11,8 +11,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Lit](https://img.shields.io/badge/Web%20Components%2FLit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -24,8 +27,8 @@
 | 🗂️ Proyecto | 📝 Descripción | 🔧 Stack | 🔗 |
 |------------|----------------|----------|-----|
 | ☀️ **Weather App** | App del tiempo con búsqueda por ciudad y datos en tiempo real | React · TailwindCSS · API | [Ver →](https://weatherv3-rw76.vercel.app/) |
-| ✅ **TaskMaster** | Gestor de tareas con prioridades y seguimiento de progreso | React · TypeScript · CSS | [Ver →]([https://posture-helper.netlify.app/](https://taskmaster-green.vercel.app/)) |
-| 🍅 **Pomodoro Focus** | Temporizador Pomodoro para mejorar la productividad y el foco | HTML · CSS · JavaScript | [Ver →](https://posture-helper.netlify.app/) |
+| ✅ **TaskMaster** | Gestor de tareas con prioridades y seguimiento de progreso | React · TypeScript · Tailwind · Supabase | [Ver →](https://taskmaster-green.vercel.app/) |
+| 🍅 **Pomodoro Focus** | Temporizador Pomodoro para mejorar la productividad,el foco y cuidar la postura mientras trabajas. | HTML · CSS · JavaScript | [Ver →](https://posture-helper.netlify.app/) |
 
 ---
 
