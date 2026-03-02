@@ -24,7 +24,7 @@
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-alonso-saz/)
-- 🌐 [Portfolio personal](https://portfolioalvaroasdev.netlify.app/)
+- 🌐 [Portfolio personal](https://portfolio-desarrollador-frontend.vercel.app/)
 - 📧 Alvaro.alonso.dev@gmail.com
 
 ---
